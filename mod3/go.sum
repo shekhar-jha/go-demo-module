@@ -1,0 +1,4 @@
+github.com/shekhar-jha/go-demo-module/mod1 v0.2.0 h1:kIPXdGErbYOaW8I10PELJXRYLeOiZZ2UV5lHhPQZRHo=
+github.com/shekhar-jha/go-demo-module/mod1 v0.2.0/go.mod h1:7MDDcZvY50SD5oA3kveG7Z+jmJc9ff6xHatqYRiDdZg=
+github.com/shekhar-jha/go-demo-module/mod2 v0.1.0 h1:OFkEGXymutSAKVxpo3j59vL5gXQSVcRAxKPi/7qEPqc=
+github.com/shekhar-jha/go-demo-module/mod2 v0.1.0/go.mod h1:WNCqK0PC81/1IpFhUjinwAtIzrsq4ckUKUqtxqR+l6A=
