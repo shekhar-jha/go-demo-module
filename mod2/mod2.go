@@ -5,6 +5,6 @@ type Mod2Struct struct {
 }
 
 func Mod2() string {
-        return "Mod2-V1"
+        return "Mod2-V2"
 }
 
