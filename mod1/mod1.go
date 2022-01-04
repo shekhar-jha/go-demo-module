@@ -7,5 +7,5 @@ type Mod1Struct struct {
 }
 
 func Mod1() string {
-        return "Mod1-V1-with-Mod2-V1(" + mod2.Mod2()+")"
+        return "Mod1-V2-with-Mod2-V1(" + mod2.Mod2()+")"
 }
